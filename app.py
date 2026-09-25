@@ -8,7 +8,7 @@ items = []
 def home():
     html = """
     <h1>Campus Lost & Found</h1>
-    <h2>SaaS & PaaS Demo</h2>
+    <h2>SaaS & PaaS Demo - Version 2</h2>
 
     <p>Report a lost or found item.</p>
 
